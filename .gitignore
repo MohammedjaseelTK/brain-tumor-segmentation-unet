@@ -1,0 +1,9 @@
+dataset/
+saved_models/
+venv/
+__pycache__/
+node_modules/
+*.h5
+*.pth
+*.pt
+.env
